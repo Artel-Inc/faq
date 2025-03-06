@@ -4,14 +4,14 @@ Frequently asked questions
 Это небольшое руководство по работе в нашей инфраструктуре.
 Просим вас ознакомится со всеми материалами в этом репозитории.
 
-## C чего начать:
+## Общее:
 
-1. [Контроль версий или немного о GitHub](./github_base.md)
-1. [Именуем правильно](./naming_guid.md) (procedure)
-1. [Версии это важно](./version_guid.md) (procedure)
-1. [Markdown как стандарт оформления документации](./markdown_guide.md)
+1. [Контроль версий или немного о GitHub](./general_github_base.md)
+1. [Markdown как стандарт оформления документации](./general_markdown_guide.md)
+1. [Именуем правильно](./general_naming_guid.md) (procedure)
+1. [Версии это важно](./general_version_guid.md) (procedure)
 
-### Для hardware инженера:
+## Hardware:
 
 Разработка:
 
@@ -20,12 +20,15 @@ Frequently asked questions
 1. [Рекомендации по работе с pcb в `kicad`](./hardware_kicad_pcb.md)
 1. [Ручная подготовка КД `kicad` к производству](./hardware_kicad_production.md) (legacy)
 
-Производство:
+## Firmware/Software:
 
-1. [Процедура пред/пост-заказа печатных плат](./hardware_pre-post-order.md) (procedure)
+## Производство:
+
+1. [Процедура пред/пост-заказа печатных плат](./order_pre-post.md) (procedure)
 1. [Заказ pcb/smt на `jlc.com`](./order_pcb-smt_jlccom.md) (procedure)
 1. [Заказ pcb на `rezonit.com`](./order_pcb_rezonit.md) (procedure)
 
 ## Внутренний распорядок:
 
-1. [Список профильных вопросов](./list_of_profile_questions.md)
+1. [Процедура верификации hardware дизайна](./regulations_hardware_verification.md)
+1. [Список профильных вопросов](./regulations_profile_questions.md)
