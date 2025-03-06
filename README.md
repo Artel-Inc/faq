@@ -14,8 +14,6 @@ Frequently asked questions
 
 ## Hardware:
 
-Разработка:
-
 1. [Структура hardware репозитория](./hardware_repository_structure.md)
 1. [Рекомендации по работе со схемотехникой в `kicad`](./hardware_kicad_schematic.md)
 1. [Рекомендации по работе с pcb в `kicad`](./hardware_kicad_pcb.md)
