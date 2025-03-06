@@ -1,0 +1,14 @@
+# General
+*.bck
+*.bak
+﻿.~*
+_autosave-*
+*/#auto_saved_files#
+*/*-backups/*
+.DS_Store
+
+#drawio
+*.bkp
+
+#vscode
+.vscode
