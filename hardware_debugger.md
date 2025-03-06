@@ -27,10 +27,10 @@
 
 ![](design/2025-03-06-23-03-54-image.png)
 
-CGD (УГО): `Connector_Generic:Conn_02x05_Odd_Even`
-FP (ФП) [SMT]: `PinSocket_2x05_P1.27mm_Vertical_SMD`
-FP (ФП) [DIP]: `PinSocket_2x05_P1.27mm_Vertical`
-LCSC: `C2684733`
+- CGD (УГО): `Connector_Generic:Conn_02x05_Odd_Even`
+- FP (ФП) [SMT]: `PinSocket_2x05_P1.27mm_Vertical_SMD`
+- FP (ФП) [DIP]: `PinSocket_2x05_P1.27mm_Vertical`
+- LCSC: `C2684733`
 
 ### Программатор
 
@@ -38,10 +38,10 @@ LCSC: `C2684733`
 
 Нумерация контактов идентична целевому устройству. За исключением перевернутого **TX/RX** у UART на стороне программатора.
 
-CGD (УГО): `Connector_Generic:Conn_02x05_Odd_Even` 
-FP (ФП) [SMT]: `PinHeader_2x05_P1.27mm_Vertical_SMD` 
-FP (ФП) [DIP]: `PinHeader_2x05_P1.27mm_Vertical` 
-LCSC: `C2935458` или `C2881910` или `C783829`(вариант с `c защитой`)
+- CGD (УГО): `Connector_Generic:Conn_02x05_Odd_Even` 
+- FP (ФП) [SMT]: `PinHeader_2x05_P1.27mm_Vertical_SMD` 
+- FP (ФП) [DIP]: `PinHeader_2x05_P1.27mm_Vertical` 
+- LCSC: `C2935458` или `C2881910` или `C783829`(вариант с защитой)
 
 > [!WARNING]
 > 
