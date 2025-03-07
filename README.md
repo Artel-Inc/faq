@@ -19,6 +19,7 @@ Frequently asked questions
 1. [Рекомендации по работе с pcb в `kicad`](./hardware_kicad_pcb.md)
 1. [Ручная подготовка КД `kicad` к производству](./hardware_kicad_production.md) (legacy)
 1. [Универсальный порт отладки `SWD`/`JTAG`/`UART`](./hardware_debugger.md)
+1. [Рекомендации по компоновке выводов в соединителях](./hardware_pinout.md)
 
 ## Firmware/Software:
 
