@@ -13,12 +13,15 @@
 ### Типы сигналов:
 
 - Аналоговый (Например сигнал с `NTC` резистора)
+  
   ![Аналоговый сигнал](https://electricalschool.info/uploads/posts/2019-11/1574091618_1.png)
 
 - Цифровой-дискретный (Например `CAN`)
+  
   ![Дискретный сигнал](https://electricalschool.info/uploads/posts/2019-11/1574091559_2.png)
 
 - Цифровой-бинарный (Например `UART`)
+  
   
   <img src="https://rgtcav.github.io/Conspects/Conspect10/Screenshot_1.png" title="" alt="Picture background" width="495">
 
