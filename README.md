@@ -15,11 +15,12 @@ Frequently asked questions
 ## Hardware:
 
 1. [Структура hardware репозитория](./hardware_repository_structure.md)
-1. [Рекомендации по работе со схемотехникой в `kicad`](./hardware_kicad_schematic.md)
+1. [Требования к hardware проекту](./hardware_project.md)
+1. [Рекомендации по работе с sch в `kicad`](./hardware_kicad_schematic.md)
 1. [Рекомендации по работе с pcb в `kicad`](./hardware_kicad_pcb.md)
-1. [Ручная подготовка КД `kicad` к производству](./hardware_kicad_production.md) (legacy)
 1. [Универсальный порт отладки `SWD`/`JTAG`/`UART`](./hardware_debugger.md)
 1. [Рекомендации по компоновке выводов в соединителях](./hardware_pinout.md)
+1. [Ручная подготовка КД `kicad` к производству](./hardware_kicad_production.md) (legacy)
 
 ## Firmware/Software:
 
